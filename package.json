@@ -2,24 +2,22 @@
   "name": "@hcisme/express-joi",
   "version": "0.0.1",
   "description": "基于 joi，用于校验 body、query 和 params 的 express 中间件。",
-  "main": "index.js",
-  "scripts": {},
+  "main": "src/index",
   "keywords": [
     "express",
     "joi",
-    "express-joi",
-    "validator"
+    "express-joi"
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/hcisme/express-joi"
   },
   "bugs": {
-    "url": "issues"
+    "url": "https://github.com/hcisme/express-joi/issues"
   },
   "author": "hcisme",
   "license": "ISC",
   "dependencies": {
-    "joi": "^17.4.0"
+    "joi": "^17.11.0"
   }
 }
