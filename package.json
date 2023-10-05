@@ -19,5 +19,9 @@
   "license": "ISC",
   "dependencies": {
     "joi": "^17.11.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
   }
 }
